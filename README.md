@@ -1,2 +1,2 @@
 # Practica
-practica en el salón nueva practica modificada el 19
+Practica de conflicto de líneas con Azael 04/04/2025
